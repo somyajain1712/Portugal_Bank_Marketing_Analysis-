@@ -46,4 +46,8 @@ Output variable (desired target):
 22) y: has the client subscribed a term deposit? (binary: "yes","no")
 
 
+## Approach 
+
+
+
 
